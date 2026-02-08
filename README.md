@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorp92&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorp92" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 I’m currently learning **Python, JavaScript, Java, SQL server**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Java and SQL server**
 
 - 📫 How to reach me **antonio.08.08.15@gmail.com**
 
